@@ -1,4 +1,3 @@
-
 num1 = int(input("Enter the first digit: "))
 num2 = int(input("Enter the third digit: "))
 num3 = int(input("Enter the first digit: "))
