@@ -1,8 +1,5 @@
-#Домашнє Завдання 1
+salary = float(input("salary for the month: "))
+loan = float(input("loan repayment: "))
+utilities = float(input("arrears for utilities "))
 
-num1 = int(input("Enter the first digit: "))
-num2 = int(input("Enter the third digit: "))
-num3 = int(input("Enter the first digit: "))
-
-print("Amount of:", num1 + num2 + num3)
-print("product of numbers:", num1 * num2 * num3)
+print("Amount after payments: ", salary - loan - utilities)
