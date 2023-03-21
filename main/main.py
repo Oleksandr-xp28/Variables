@@ -1,4 +1,3 @@
-#Домашнє Завдання 1
 
 num1 = int(input("Enter the first digit: "))
 num2 = int(input("Enter the third digit: "))
